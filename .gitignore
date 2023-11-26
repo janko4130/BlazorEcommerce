@@ -1,0 +1,8 @@
+# Ignoruj pliki kompilowane
+*.dll
+*.exe
+*.pdb
+
+# Ignoruj katalogi
+bin/
+obj/
